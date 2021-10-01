@@ -1,0 +1,10 @@
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\The Data Collector\bin\Debug\The Data Collector.exe.config
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\The Data Collector\bin\Debug\The Data Collector.exe
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\The Data Collector\bin\Debug\The Data Collector.pdb
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\The Data Collector\obj\Debug\The Data Collector.csproj.AssemblyReference.cache
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\The Data Collector\obj\Debug\The_Data_Collector.Data_Borrower_Form.resources
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\The Data Collector\obj\Debug\The_Data_Collector.Properties.Resources.resources
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\The Data Collector\obj\Debug\The Data Collector.csproj.GenerateResource.cache
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\The Data Collector\obj\Debug\The Data Collector.csproj.CoreCompileInputs.cache
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\The Data Collector\obj\Debug\The Data Collector.exe
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\The Data Collector\obj\Debug\The Data Collector.pdb

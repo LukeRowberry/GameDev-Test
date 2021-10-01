@@ -1,0 +1,12 @@
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\Contact Data WaffleWOOP\bin\Debug\Contact Data WaffleWOOP.exe.config
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\Contact Data WaffleWOOP\bin\Debug\Contact Data WaffleWOOP.exe
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\Contact Data WaffleWOOP\bin\Debug\Contact Data WaffleWOOP.pdb
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\Contact Data WaffleWOOP\obj\Debug\Contact Data WaffleWOOP.csproj.AssemblyReference.cache
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\Contact Data WaffleWOOP\obj\Debug\Contact_Data_WaffleWOOP.Form1.resources
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\Contact Data WaffleWOOP\obj\Debug\Contact_Data_WaffleWOOP.Properties.Resources.resources
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\Contact Data WaffleWOOP\obj\Debug\Contact Data WaffleWOOP.csproj.GenerateResource.cache
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\Contact Data WaffleWOOP\obj\Debug\Contact Data WaffleWOOP.csproj.CoreCompileInputs.cache
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\Contact Data WaffleWOOP\obj\Debug\Contact Data WaffleWOOP.exe
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\Contact Data WaffleWOOP\obj\Debug\Contact Data WaffleWOOP.pdb
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\Contact Data WaffleWOOP\bin\Debug\Database1.mdf
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\Contact Data WaffleWOOP\bin\Debug\Database1_log.ldf

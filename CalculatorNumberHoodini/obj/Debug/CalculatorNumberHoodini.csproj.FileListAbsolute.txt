@@ -1,0 +1,10 @@
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\CalculatorNumberHoodini\bin\Debug\CalculatorNumberHoodini.exe.config
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\CalculatorNumberHoodini\bin\Debug\CalculatorNumberHoodini.exe
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\CalculatorNumberHoodini\bin\Debug\CalculatorNumberHoodini.pdb
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\CalculatorNumberHoodini\obj\Debug\CalculatorNumberHoodini.csproj.AssemblyReference.cache
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\CalculatorNumberHoodini\obj\Debug\CalculatorNumberHoodini.Calculator.resources
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\CalculatorNumberHoodini\obj\Debug\CalculatorNumberHoodini.Properties.Resources.resources
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\CalculatorNumberHoodini\obj\Debug\CalculatorNumberHoodini.csproj.GenerateResource.cache
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\CalculatorNumberHoodini\obj\Debug\CalculatorNumberHoodini.csproj.CoreCompileInputs.cache
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\CalculatorNumberHoodini\obj\Debug\CalculatorNumberHoodini.exe
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\CalculatorNumberHoodini\obj\Debug\CalculatorNumberHoodini.pdb

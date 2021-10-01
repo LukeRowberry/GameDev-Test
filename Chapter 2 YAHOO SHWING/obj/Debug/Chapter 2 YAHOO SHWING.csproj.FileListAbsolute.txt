@@ -1,0 +1,7 @@
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\Chapter 2 YAHOO SHWING\bin\Debug\Chapter 2 YAHOO SHWING.exe.config
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\Chapter 2 YAHOO SHWING\bin\Debug\Chapter 2 YAHOO SHWING.exe
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\Chapter 2 YAHOO SHWING\bin\Debug\Chapter 2 YAHOO SHWING.pdb
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\Chapter 2 YAHOO SHWING\obj\Debug\Chapter 2 YAHOO SHWING.csproj.AssemblyReference.cache
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\Chapter 2 YAHOO SHWING\obj\Debug\Chapter 2 YAHOO SHWING.csproj.CoreCompileInputs.cache
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\Chapter 2 YAHOO SHWING\obj\Debug\Chapter 2 YAHOO SHWING.exe
+C:\Users\luke.rowberry\OneDrive - tooelesd\Desktop\GameDev\Chapter 2 YAHOO SHWING\obj\Debug\Chapter 2 YAHOO SHWING.pdb
